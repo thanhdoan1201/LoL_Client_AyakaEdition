@@ -4,7 +4,7 @@
 }
 
 .parties-view {
-    background-color: transparent !important;
+        background-color: transparent !important;
     background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/ayaka-team-bg.jpg?raw=true) !important;
     *box-shadow: inset 0px 0px 150px rgba(220, 20, 60, 0.2);
     *border-radius: 20px 20px 0px 0px;
@@ -64,7 +64,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     cursor: default;
     -webkit-user-drag: none;
     -webkit-user-select: none;
-    background-color: transparent !important;
+    background-color: #84c1ff8f;
     background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/assets/img/kamisato_ayaka.png?raw=true)!important;
     background-repeat: no-repeat;
     *box-shadow: inset 0px 0px 1278px rgba(220, 20, 60, 0.4);
@@ -419,8 +419,9 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 .status-message,
 .status-message-product-name,
 .status-message-quoted {
-    color: #33cc33 !important;
+    color: #FF69B4 !important;
     text-shadow: 1px 1px 1px #000000 !important;
+    font-weight: 800;
 }
 
 .dnd {
@@ -617,10 +618,12 @@ rcp-fe-lol-navigation {}
 
 .play-button-content span {
     color: #FF99FF;
+    font-size: 64px;
 }
 
 .play-button-text {
     text-shadow: 0 0 5px #FB2930, 0 0 5px #FB2930;
+    font-size: 64px;
 }
 
 .basic-button:hover {
@@ -630,4 +633,9 @@ rcp-fe-lol-navigation {}
 
 .currency-be-icon-static {
     color: red;
+}
+.vng-age-rating{
+height:0px;
+display:none;
+}
 }
