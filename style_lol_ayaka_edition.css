@@ -20,7 +20,7 @@
 }
 
 .collections-application {
-    background: url(https://doanntph16820.000webhostapp.com/assets/img/Screenshot%20from%202023-01-07%2015-41-05.png) !important;
+    background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/assets/img/Screenshot%20from%202023-01-07%2015-41-05.png?raw=true) !important;
     backdrop-filter: blur(10px);
 }
 
@@ -65,7 +65,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     -webkit-user-drag: none;
     -webkit-user-select: none;
     background-color: transparent !important;
-    background: url('https://doanntph16820.000webhostapp.com/assets/img/kamisato_ayaka.png')!important;
+    background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/assets/img/kamisato_ayaka.png?raw=true)!important;
     background-repeat: no-repeat;
     *box-shadow: inset 0px 0px 1278px rgba(220, 20, 60, 0.4);
     *border-radius: 20px 20px 0px 0px;
@@ -162,7 +162,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     height: 718px;
     overflow: hidden;
     opacity: 90%;
-    background: url(https://doanntph16820.000webhostapp.com/assets/img/Genshin-Impact-Ayaka-PV.png) !important;
+    background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/assets/img/Genshin-Impact-Ayaka-PV.png?raw=true) !important;
     filter: blur(5px);
     -webkit-filter: blur(5px);
 }
@@ -603,14 +603,14 @@ lol-social-roster-member .party-join-button {
 .ticker-button {
     position: absolute;
     margin-left: 200px!important;
-    background: url("cryo.png");
+    background: url("https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/cryo.png?raw=true");
     background-repeat: no-repeat;
 }
 
 .ticker-toggle {
     position: relative;
     z-index: 9999;
-    background: url("cryo.png");
+    background: url("https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/cryo.png?raw=true");
 }
 
 rcp-fe-lol-navigation {}
