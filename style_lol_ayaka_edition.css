@@ -4,13 +4,13 @@
 }
 
 .parties-view {
+    background-color: transparent !important;
+    background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/ayaka-team-bg.jpg?raw=true) !important;
     *box-shadow: inset 0px 0px 150px rgba(220, 20, 60, 0.2);
     *border-radius: 20px 20px 0px 0px;
 }
 
 .parties-background {
-    background-color: transparent !important;
-    background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/ayaka-team-bg.jpg?raw=true) !important;
     filter: blur(5px);
     -webkit-filter: blur(5px);
 }
