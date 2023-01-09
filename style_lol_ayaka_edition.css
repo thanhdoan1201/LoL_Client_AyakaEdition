@@ -7,9 +7,10 @@
     *box-shadow: inset 0px 0px 150px rgba(220, 20, 60, 0.2);
     *border-radius: 20px 20px 0px 0px;
 }
-.parties-background{
+
+.parties-background {
     background-color: transparent !important;
-    background: url(https://doanntph16820.000webhostapp.com/ayaka-team-bg.jpg) !important;
+    background: url(https://github.com/thanhdoan1201/LoL_Client_AyakaEdition/blob/main/ayaka-team-bg.jpg?raw=true) !important;
     filter: blur(5px);
     -webkit-filter: blur(5px);
 }
@@ -21,7 +22,6 @@
 .collections-application {
     background: url(https://doanntph16820.000webhostapp.com/assets/img/Screenshot%20from%202023-01-07%2015-41-05.png) !important;
     backdrop-filter: blur(10px);
-    
 }
 
 div[data-screen-name='rcp-fe-lol-navigation-screen'] {
@@ -389,8 +389,9 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 .basic-button.play .play-button-container .play-button-content .play-button-text {
     width: calc(100% - 0px)!important;
 }
+
 .play-button-content span {
-    color:#FF99FF;
+    color: #FF99FF;
 }
 
 .basic-button .play-button-container .play-button-content {
@@ -602,28 +603,31 @@ lol-social-roster-member .party-join-button {
 .ticker-button {
     position: absolute;
     margin-left: 200px!important;
-    background:url("cryo.png");
+    background: url("cryo.png");
     background-repeat: no-repeat;
 }
-.ticker-toggle{
-    position:relative;
-    z-index:9999;
-    background:url("cryo.png");
-}
 
+.ticker-toggle {
+    position: relative;
+    z-index: 9999;
+    background: url("cryo.png");
+}
 
 rcp-fe-lol-navigation {}
+
 .play-button-content span {
-    color:#FF99FF;
+    color: #FF99FF;
 }
-.play-button-text{
+
+.play-button-text {
     text-shadow: 0 0 5px #FB2930, 0 0 5px #FB2930;
 }
+
 .basic-button:hover {
     border: 6px solid #ff0000;
     border-radius: 20px;
-    
 }
-.currency-be-icon-static{
- color: red;   
+
+.currency-be-icon-static {
+    color: red;
 }
